@@ -1,9 +1,10 @@
+
 .ColorBox {
 	cursor: pointer;
 	display: inline-block;
 	height: 25%;
 	margin: 0 auto;
-	margin-bottom: -4px;
+	margin-bottom: -7px;
 	position: relative;
 	width: 20%;
 }
