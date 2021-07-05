@@ -50,3 +50,7 @@ nav {
 	margin-left: auto;
 	margin-right: 1rem;
 }
+
+.MuiMenuItem-root {
+	font-family: 'Poppins', sans-serif !important;
+}
